@@ -1,0 +1,28 @@
+.course-list {
+    padding: 20px;
+    list-style: none;
+  }
+  
+  .course-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .course-item h3 {
+    margin: 0 0 10px;
+  }
+  
+  .course-item p {
+    margin: 0 0 10px;
+  }
+  
+  .course-item a {
+    color: #007bff;
+    text-decoration: none;
+  }
+ul{
+  list-style: none;
+}
+  

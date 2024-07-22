@@ -1,0 +1,25 @@
+.progress-tracker {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .progress-tracker h2 {
+    margin-bottom: 20px;
+  }
+  
+  .progress-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .progress-item label {
+    font-weight: bold;
+  }
+  
+  .progress-item span {
+    font-size: 1.2em;
+  }
+  
